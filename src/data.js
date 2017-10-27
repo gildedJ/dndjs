@@ -15,7 +15,7 @@ export const CONFIG = {
 export const SETTINGS = {
 	sounds: true,
 	vibration: true,
-	tileMag: 3
+	tileMag: 2
 };
 
 export const TILES = {
